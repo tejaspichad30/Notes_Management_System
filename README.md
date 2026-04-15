@@ -105,23 +105,19 @@ PORT=5000
 
 ### Home Page
 
-![Home](screenshots/home.png)
+![Home](screenshots/home.jpeg)
 
 ### Create Note
 
-![Create](screenshots/create.png)
+![Create](screenshots/create.jpeg)
 
 ### Pinned Note
 
-![Pin](screenshots/pin.png)
+![Pin](screenshots/pin.jpeg)
 
 ### Search Feature
 
-![Search](screenshots/search.png)
-
-### Tags Feature
-
-![Tags](screenshots/tags.png)
+![Search](screenshots/search.jpeg)
 
 ---
 

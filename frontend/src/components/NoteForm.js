@@ -20,7 +20,7 @@ function NoteForm({ fetchNotes, selectedNote, setSelectedNote }) {
     try {
       if (selectedNote) {
         await axios.put(
-          `https://notes-backend-agm0.onrender.com//${selectedNote._id}`,
+          `https://notes-backend-agm0.onrender.com/api/notes/${selectedNote._id}`,
           { title, content, tags }
         );
       } else {
